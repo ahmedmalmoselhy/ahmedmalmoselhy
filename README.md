@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Ahmed AlMoselhy - aka Anubixo 👋
 
-<!--
-**ahmedalmoselhy/ahmedalmoselhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Laravel Backend Developer!
+- 🔭 I’m currently working on [UniOne][project]!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: Become a full stack developer
+- ⚡ Fun fact: I love video games
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Ahmed Hani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ahmed Hani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ahmed Hani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+<br />
+
+
+
+[twitter]: https://twitter.com/_anubixo
+[instagram]: https://instagram.com/anubixo
+[linkedin]: https://linkedin.com/in/ahmedalmoselhy
+[project]: https://github.com/ahmedalmoselhy/UniOne
