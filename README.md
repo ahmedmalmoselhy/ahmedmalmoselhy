@@ -3,7 +3,7 @@
 ## I'm a Laravel Backend Developer!
 - 🔭 I’m currently working on [UniOne][unione1] & [PhotoStudio][photo]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Become a full stack developer
+- 🥅 2021 Goals: Become a full stack developer
 - ⚡ Fun fact: I love video games
 
 ### Connect with me:
