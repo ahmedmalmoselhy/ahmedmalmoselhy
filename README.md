@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Become a full stack developer
 - ⚡ Fun fact: I love video games
+- 👮‍♂️ I'm currently serving in military, So I'm not very active
 
 ### Connect with me:
 
