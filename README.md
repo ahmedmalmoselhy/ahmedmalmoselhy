@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmed AlMoselhy - aka Anubixo 👋
 
 ## I'm a Laravel Backend Developer!
-- 🔭 I’m currently working on [UniOne][unione1] & [PhotoStudio][photo]!
+- 🔭 I’m currently working on [UniOne][unione1]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Become a full stack developer
 - ⚡ Fun fact: I love video games
@@ -49,4 +49,3 @@
 [instagram]: https://instagram.com/anubixo
 [linkedin]: https://linkedin.com/in/ahmedalmoselhy
 [unione1]: https://github.com/ahmedalmoselhy/UniOne
-[photo]: https://github.com/ahmedalmoselhy/photostudio
