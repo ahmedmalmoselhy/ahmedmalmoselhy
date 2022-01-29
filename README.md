@@ -1,9 +1,9 @@
 ### Hi there, I'm Ahmed AlMoselhy - aka Anubixo 👋
 
 ## I'm a Web Developer!
-- 🔭 I’m currently working on [UniOne][unione1] as a personal project. Please feel free to ask about it if you want to contribute!
-- 🥅 2022 Goals: Become a better developer than what I am now
-- ⚡ Fun fact: I love video games
+- 🔭 I’m currently working on [UniOne][unione1] as a personal project.
+- 🥅 2022 Goals: Learn more about performance and writing SOLID code.
+- ⚡ Fun fact: I am also a gamer
 
 ### Connect with me:
 
