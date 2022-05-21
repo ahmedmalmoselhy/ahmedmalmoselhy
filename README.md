@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/_anubixo" target="blank"><img src="https://img.shields.io/twitter/follow/_anubixo?logo=twitter&style=for-the-badge" alt="_anubixo" /></a> </p>
 
-- 🔭 I’m currently working on [UniOne](https://github.com/anubixo/UniOne)
+- 🔭 I’m currently working on [UniOne](https://github.com/anubixo/UniOne) & [curey-node](https://github.com/anubixo/curey-node)
 
 - 🌱 I’m currently learning **Node JS, Express, Algorithms**
 
