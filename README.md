@@ -3,7 +3,7 @@ Hi, I'm Ahmed, a software engineer from Egypt, I focus on anything tech related 
 
 ## What I'm working on
 I'm currently working on [curey](https://github.com/Curey-HealthCare/curey-backend) - Refacoring my API into a new architecture, and adding new features to it, I'm also casually writing scripts for fun in other languages like python, javascript and maybe ruby and go lang in the future.
-That is of course in addition to being a full time Software Engineer @[Serv5](https://serv5.com) and a part time @[Devolum](https://devolum.com/) so I may be a little bit slow to update my work.
+That is of course in addition to being a full time Software Engineer @[Serv5](https://serv5.com) so I may be a little bit slow to update my work.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anubixo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anubixo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubixo) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/anubixo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_anubixo) 
