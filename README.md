@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I'm Ahmed, a software engineer from Egypt, I focus on anything tech related so feel free to include me in anything, I'm more than happy to learn and explore everything!<br>You'll mostly find me playing some game in my free time, mostly online games!
 
+<a href="https://app.daily.dev/anubixo"><img src="https://api.daily.dev/devcards/cd04ec112ac54c8292cf5b6a679ff4a7.png?r=3fe" width="400" alt="Ahmed AlMoselhy's Dev Card"/></a>
+
 ## What I'm working on
 I'm currently working on [curey](https://github.com/Curey-HealthCare/curey-backend) - Refacoring my API into a new architecture, and adding new features to it, I'm also casually writing scripts for fun in other languages like python, javascript and maybe ruby and go lang in the future.
 That is of course in addition to being a full time Software Engineer @[Serv5](https://serv5.com) so I may be a little bit slow to update my work.
