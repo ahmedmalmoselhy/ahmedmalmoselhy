@@ -9,7 +9,7 @@ I've been passionate about software and coding for a long time, and my passion h
 * 🌍  I'm based in Mansoura & Cairo, Egypt
 * 🖥️  See my portfolio at [Anubixo](http://anubixo.me)
 * ✉️  You can contact me at [ah.almoselhy@gmail.com](mailto:ah.almoselhy@gmail.com)
-* 🚀  I'm currently working on [Dynamic Dashboard](http://github.com/Engineers-on-Tea/laravel-dashboard)
+* 🚀  I'm currently working on [Dynamic Dashboard](http://github.com/anubixo/laravel-dashboard) & [Dynamic Dashboard w/ InertiaJS](http://github.com/anubixo/dashboard-inertia)
 * 🧠  I'm learning Inertia JS, Vue JS & .NET
 * 🤝  I'm open to collaborating on anything really, I love to learn while working on something
 * ⚡  I am in fact a gamer myself
