@@ -10,7 +10,7 @@ I've been passionate about software and coding for a long time, and my passion h
 * 🖥️  See my portfolio at [Anubixo](http://anubixo.me)
 * ✉️  You can contact me at [ah.almoselhy@gmail.com](mailto:ah.almoselhy@gmail.com)
 * 🚀  I'm currently working on [Dynamic Dashboard](http://github.com/anubixo/laravel-dashboard) & [Dynamic Dashboard w/ InertiaJS](http://github.com/anubixo/dashboard-inertia)
-* 🧠  I'm learning Inertia JS, Vue JS & .NET
+* 🧠  I'm learning [Inertia JS](https://inertiajs.com/), [Vue JS](https://vuejs.org/), [Ruby on Rails](https://rubyonrails.org/), [Django](https://www.djangoproject.com/) & [.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
 * 🤝  I'm open to collaborating on anything really, I love to learn while working on something
 * ⚡  I am in fact a gamer myself
 
