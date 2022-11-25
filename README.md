@@ -12,7 +12,7 @@ I've been passionate about software and coding for a long time, and my passion h
 * 🚀  I'm currently working on [Dynamic Dashboard](http://github.com/anubixo/laravel-dashboard) & [Dynamic Dashboard w/ InertiaJS](http://github.com/anubixo/dashboard-inertia)
 * 🧠  I'm learning [Inertia JS](https://inertiajs.com/), [Vue JS](https://vuejs.org/), [Ruby on Rails](https://rubyonrails.org/), [Django](https://www.djangoproject.com/) & [.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
 * 🤝  I'm open to collaborating on anything really, I love to learn while working on something
-* ⚡  I am in fact a gamer myself
+* ⚡  I am also a gamer and I like reading
 
 <a href="https://www.twitter.com/_anubixo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_anubixo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
