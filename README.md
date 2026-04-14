@@ -25,7 +25,7 @@
 ## 🎯 About Me
 
 - 🔭 **Currently working** on UniOne - a comprehensive university management system
-- 💼 **Professional experience** at Jawwy by STC (outsourced via Qeema) as EOC/ECM Developer & Support Engineer
+- 💼 **Professional experience** as a Fullstack Engineer, CRM Developer, CRM Support Engineer & OM Solution Designer
 - 🎓 **Education**: Bachelor's Degree in Computers & Systems Engineering from Mansoura University (2014-2020)
 - 🌍 **Location**: Cairo, Egypt | Working remotely with teams across Saudi Arabia and Egypt
 - 💡 **Interests**: Gaming, reading, photography, and being a family man
@@ -33,38 +33,10 @@
 
 ---
 
-## 💼 Professional Experience
-
-### **Jawwy by STC** (via Qeema) | *July 2023 - Present*
-**EOC/ECM Developer & Support Engineer** | Remote | Riyadh, Saudi Arabia
-- Product Catalog Management using Ericsson Catalog Manager (ECM)
-- Technical Support (L3) maintaining system reliability and resolving critical issues
-- System Integration with external systems for streamlined operations
-- Technologies: EOC, ECM, JavaScript, SQL, Oracle DB, Git, Docker
-
-### **Qeema** | *December 2022 - Present*
-**Software Engineer** | Hybrid | Cairo, Egypt
-- Developed EOC solutions for Jawwy DT project, customizing CRM solutions for telecom
-- Led EOC/ECM upgrade from version 20 to 22, resolving version conflicts
-- Technologies: EOC, ECM, Creatio, JavaScript, SQL, C#, Oracle DB, Microsoft SQL Server, Git, Docker
-
-### **Devolum** | *September 2022 - October 2022*
-**Full-stack Developer** | Remote | Mansoura, Egypt
-- Enhanced web application performance through front-end and back-end optimizations
-- Technologies: PHP, Laravel, JavaScript, MySQL, Git
-
-### **Serv5** | *October 2021 - November 2022*
-**Full-stack Developer → Backend Developer** | On-site | Mansoura, Egypt
-- Improved codebase quality and integrated Vue.js components for better UX
-- Integrated third-party APIs for mobile application functionality
-- Technologies: PHP, Laravel, JavaScript, Vue.js, MySQL, RESTful APIs, Git, Node.js, Express.js
-
----
-
 ## 🛠️ Technical Skills
 
 ### **Programming Languages**
-<table>
+<table align="center">
   <tr align="center">
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/javascript.svg" width="50" alt="JavaScript"><br><sub>JavaScript</sub></td>
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/php.svg" width="50" alt="PHP"><br><sub>PHP</sub></td>
@@ -76,7 +48,7 @@
 </table>
 
 ### **Frameworks & Libraries**
-<table>
+<table align="center">
   <tr align="center">
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/laravel.svg" width="50" alt="Laravel"><br><sub>Laravel</sub></td>
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/vue.svg" width="50" alt="Vue.js"><br><sub>Vue.js</sub></td>
@@ -87,7 +59,7 @@
 </table>
 
 ### **Databases**
-<table>
+<table align="center">
   <tr align="center">
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/postgresql.svg" width="50" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/mysql.svg" width="50" alt="MySQL"><br><sub>MySQL</sub></td>
@@ -97,7 +69,7 @@
 </table>
 
 ### **Dev Tools & Platforms**
-<table>
+<table align="center">
   <tr align="center">
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/git.svg" width="50" alt="Git"><br><sub>Git</sub></td>
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/github.svg" width="50" alt="GitHub"><br><sub>GitHub</sub></td>
@@ -107,7 +79,7 @@
 </table>
 
 ### **CRM Systems & Tools**
-<table>
+<table align="center">
   <tr align="center">
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/ericsson.png" width="50" alt="Ericsson"><br><sub>EOC/ECM</sub></td>
     <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/creatio.png" width="50" alt="Creatio"><br><sub>Creatio</sub></td>
