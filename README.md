@@ -1,36 +1,227 @@
-# Hi 👋, I'm Ahmed AlMoselhy
+<h1 align="center">Hi, I'm Ahmed AlMoselhy 👋</h1>
 
-### Senior Software Engineer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmalmoselhy&label=Profile views&color=0e75b6&style=flat" alt="ahmedmalmoselhy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmalmoselhy" alt="ahmedmalmoselhy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ahmedmalmoselhy" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmalmoselhy?logo=twitter&style=for-the-badge" alt="ahmedmalmoselhy" /></a> </p>
-
-- 🔭 I'm currently working on **UniOne, a university management platform**
-
-- 🌱 I'm currently learning **Django, ,NET, Rails and Spring Boot**
-
-- 📫 How to reach me **ahmedalmoselhy.slm@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://ahmedmalmoselhy.github.io](https://ahmedmalmoselhy.github.io)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ahmedmalmoselhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahmedmalmoselhy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmedmalmoselhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedmalmoselhy" height="30" width="40" /></a>
-<a href="https://fb.com/ahmedmalmoselhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedmalmoselhy" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmedmalmoselhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedmalmoselhy" height="30" width="40" /></a>
-<a href="https://twitter.com/ahmedmalmoselhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedmalmoselhy" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Engineer | Full-Stack Developer | CRM & Telecom Specialist</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rails" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+  I'm a versatile and detail-oriented Software Engineer with extensive hands-on experience in full-stack development, CRM systems, and Telecom applications. I specialize in building exceptional digital experiences with a focus on accessible, human-centered products.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmalmoselhy&show_icons=true&locale=en&layout=compact" alt="ahmedmalmoselhy" /></p>
+<p align="center">
+  <a href="https://ahmedmalmoselhy.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-ahmedmalmoselhy.github.io-569CD6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ahmedalmoselhy.slm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmedalmoselhy.slm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedmalmoselhy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed AlMoselhy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmalmoselhy&show_icons=true&locale=en" alt="ahmedmalmoselhy" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmalmoselhy&" alt="ahmedmalmoselhy" /></p>
+## 🎯 About Me
 
+- 🔭 **Currently working** on UniOne - a comprehensive university management system
+- 💼 **Professional experience** at Jawwy by STC (outsourced via Qeema) as EOC/ECM Developer & Support Engineer
+- 🎓 **Education**: Bachelor's Degree in Computers & Systems Engineering from Mansoura University (2014-2020)
+- 🌍 **Location**: Cairo, Egypt | Working remotely with teams across Saudi Arabia and Egypt
+- 💡 **Interests**: Gaming, reading, photography, and being a family man
+- 🚀 **Passion**: Building efficient and elegant solutions that are both functional and intuitive
+
+---
+
+## 💼 Professional Experience
+
+### **Jawwy by STC** (via Qeema) | *July 2023 - Present*
+**EOC/ECM Developer & Support Engineer** | Remote | Riyadh, Saudi Arabia
+- Product Catalog Management using Ericsson Catalog Manager (ECM)
+- Technical Support (L3) maintaining system reliability and resolving critical issues
+- System Integration with external systems for streamlined operations
+- Technologies: EOC, ECM, JavaScript, SQL, Oracle DB, Git, Docker
+
+### **Qeema** | *December 2022 - Present*
+**Software Engineer** | Hybrid | Cairo, Egypt
+- Developed EOC solutions for Jawwy DT project, customizing CRM solutions for telecom
+- Led EOC/ECM upgrade from version 20 to 22, resolving version conflicts
+- Technologies: EOC, ECM, Creatio, JavaScript, SQL, C#, Oracle DB, Microsoft SQL Server, Git, Docker
+
+### **Devolum** | *September 2022 - October 2022*
+**Full-stack Developer** | Remote | Mansoura, Egypt
+- Enhanced web application performance through front-end and back-end optimizations
+- Technologies: PHP, Laravel, JavaScript, MySQL, Git
+
+### **Serv5** | *October 2021 - November 2022*
+**Full-stack Developer → Backend Developer** | On-site | Mansoura, Egypt
+- Improved codebase quality and integrated Vue.js components for better UX
+- Integrated third-party APIs for mobile application functionality
+- Technologies: PHP, Laravel, JavaScript, Vue.js, MySQL, RESTful APIs, Git, Node.js, Express.js
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/javascript.svg" width="50" alt="JavaScript"><br><sub>JavaScript</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/php.svg" width="50" alt="PHP"><br><sub>PHP</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/java.svg" width="50" alt="Java"><br><sub>Java</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/python.svg" width="50" alt="Python"><br><sub>Python</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/html.svg" width="50" alt="HTML/CSS"><br><sub>HTML/CSS</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/csharp.svg" width="50" alt="C#"><br><sub>C#</sub></td>
+  </tr>
+</table>
+
+### **Frameworks & Libraries**
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/laravel.svg" width="50" alt="Laravel"><br><sub>Laravel</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/vue.svg" width="50" alt="Vue.js"><br><sub>Vue.js</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/nodejs.svg" width="50" alt="Node.js"><br><sub>Node.js</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/express.svg" width="50" alt="Express.js"><br><sub>Express.js</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/react.svg" width="50" alt="React"><br><sub>React</sub></td>
+  </tr>
+</table>
+
+### **Databases**
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/postgresql.svg" width="50" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/mysql.svg" width="50" alt="MySQL"><br><sub>MySQL</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/oracle.svg" width="50" alt="Oracle"><br><sub>Oracle</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/mariadb.svg" width="50" alt="MariaDB"><br><sub>MariaDB</sub></td>
+  </tr>
+</table>
+
+### **Dev Tools & Platforms**
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/git.svg" width="50" alt="Git"><br><sub>Git</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/github.svg" width="50" alt="GitHub"><br><sub>GitHub</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/docker.svg" width="50" alt="Docker"><br><sub>Docker</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/vscode.svg" width="50" alt="VSCode"><br><sub>VSCode</sub></td>
+  </tr>
+</table>
+
+### **CRM Systems & Tools**
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/ericsson.png" width="50" alt="Ericsson"><br><sub>EOC/ECM</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/creatio.png" width="50" alt="Creatio"><br><sub>Creatio</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/jira.svg" width="50" alt="Jira"><br><sub>Jira</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/confluence.svg" width="50" alt="Confluence"><br><sub>Confluence</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/hubspot.svg" width="50" alt="HubSpot"><br><sub>HubSpot</sub></td>
+    <td><img src="https://raw.githubusercontent.com/ahmedmalmoselhy/ahmedmalmoselhy.github.io/main/public/tech/salesforce.svg" width="50" alt="Salesforce"><br><sub>Salesforce</sub></td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <strong>🏗️ UniOne</strong><br/>
+      University management system with multiple tech stack implementations<br/>
+      <em>PHP, Laravel, Node.js, Python, Django, React, TypeScript</em><br/>
+      <a href="https://github.com/ahmedmalmoselhy/UniOne">View Repository →</a>
+    </td>
+    <td>
+      <strong>📊 Laravel Modular Dashboard</strong><br/>
+      Configurable admin dashboard with Laravel Blade templates<br/>
+      <em>Laravel, MariaDB, PHP, Blade</em><br/>
+      <a href="https://github.com/ahmedmalmoselhy/laravel-dashboard">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🌐 CSED 2020 Yearbook</strong><br/>
+      Memorial website with backend and Laravel Blade layout<br/>
+      <em>PHP, Laravel, PostgreSQL, Heroku</em><br/>
+      <a href="https://github.com/ahmedmalmoselhy/csed_yearbook">View Repository →</a>
+    </td>
+    <td>
+      <strong>💊 Curey Healthcare App</strong><br/>
+      Graduation project - Backend API and database systems<br/>
+      <em>PHP, Laravel, MySQL, PostgreSQL, Heroku</em><br/>
+      <a href="https://github.com/Curey-HealthCare/Curey-HealthCareApp-Backend">View Repository →</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/ahmedmalmoselhy?tab=repositories">
+    <img src="https://img.shields.io/badge/View-All Projects-569CD6?style=for-the-badge&logo=github" alt="View All Projects" />
+  </a>
+</p>
+
+---
+
+## 📚 Certifications & Training
+
+- ✅ **Creatio Software Developer (Advanced)** - Creatio Academy (2025)
+- ✅ **Creatio No-Code Creator (Basic)** - Creatio Academy (2025)
+- ✅ **Using Databases with Python** - Coursera (2018)
+- ✅ **Using Python to Access Web Data** - Coursera (2016)
+- ✅ **Python Data Structures** - Coursera (2016)
+- ✅ **Programming for Everybody (Getting Started with Python)** - Coursera (2016)
+- 🎓 **ITI Summer Internship - Front End Web Development** - ITI Mansoura (2018)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedmalmoselhy&theme=github_dark" alt="GitHub Profile Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmalmoselhy&theme=radical" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmalmoselhy&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://ahmedmalmoselhy.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-569CD6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ahmedalmoselhy.slm@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedmalmoselhy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ahmedmalmoselhy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- 🎮 I enjoy gaming in my free time
+- 📚 Avid reader with diverse interests
+- 📷 Passionate about photography
+- 👨‍👩‍👦 Family-oriented individual
+- 🔄 Constantly learning and expanding my skillset
+
+---
+
+<p align="center">
+  <em>Thanks for visiting my profile! Feel free to explore my projects and get in touch for collaboration opportunities.</em>
+</p>
+
+<p align="center">
+  <sub>⚙️ Profile last updated: April 2026</sub>
+</p>
