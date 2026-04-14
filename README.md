@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://ahmedmalmoselhy.github.io">
+  <a href="https://ahmedmalmoselhy.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ahmedmalmoselhy.github.io-569CD6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:ahmedalmoselhy.slm@gmail.com">
+  <a href="mailto:ahmedalmoselhy.slm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ahmedalmoselhy.slm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmedmalmoselhy/">
+  <a href="https://www.linkedin.com/in/ahmedmalmoselhy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed AlMoselhy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -100,13 +100,13 @@
       <strong>🏗️ UniOne</strong><br/>
       University management system with multiple tech stack implementations<br/>
       <em>PHP, Laravel, Node.js, Python, Django, React, TypeScript</em><br/>
-      <a href="https://github.com/ahmedmalmoselhy/UniOne">View Repository →</a>
+      <a href="https://github.com/ahmedmalmoselhy/UniOne" target="_blank">View Repository →</a>
     </td>
     <td>
       <strong>📊 Laravel Modular Dashboard</strong><br/>
       Configurable admin dashboard with Laravel Blade templates<br/>
       <em>Laravel, MariaDB, PHP, Blade</em><br/>
-      <a href="https://github.com/ahmedmalmoselhy/laravel-dashboard">View Repository →</a>
+      <a href="https://github.com/ahmedmalmoselhy/laravel-dashboard" target="_blank">View Repository →</a>
     </td>
   </tr>
   <tr>
@@ -114,13 +114,13 @@
       <strong>🌐 CSED 2020 Yearbook</strong><br/>
       Memorial website with backend and Laravel Blade layout<br/>
       <em>PHP, Laravel, PostgreSQL, Heroku</em><br/>
-      <a href="https://github.com/ahmedmalmoselhy/csed_yearbook">View Repository →</a>
+      <a href="https://github.com/ahmedmalmoselhy/csed_yearbook" target="_blank">View Repository →</a>
     </td>
     <td>
       <strong>💊 Curey Healthcare App</strong><br/>
       Graduation project - Backend API and database systems<br/>
       <em>PHP, Laravel, MySQL, PostgreSQL, Heroku</em><br/>
-      <a href="https://github.com/Curey-HealthCare/Curey-HealthCareApp-Backend">View Repository →</a>
+      <a href="https://github.com/Curey-HealthCare/Curey-HealthCareApp-Backend" target="_blank">View Repository →</a>
     </td>
   </tr>
 </table>
