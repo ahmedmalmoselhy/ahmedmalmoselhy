@@ -1,20 +1,24 @@
 ## Hi, I'm Ahmed AlMoselhy 👋
 
-Senior software engineer and Creatio solution consultant in Cairo, Egypt. 5+ years across telecom order management, CRM and full-stack web: I build and run Ericsson EOC/ECM order stacks, and ship Laravel products on the side.
+Senior Software Engineer at [Qeema](https://qeema.net/), Senior Creatio CRM Developer and Creatio Solution Consultant in Cairo, Egypt. 5+ years across CRM, telecom order management and full-stack web: I design and deliver Creatio BPM/CRM solutions for enterprise clients, build and support Ericsson EOC/ECM order stacks, and ship Laravel and Node products on the side.
 
 Open to consulting, freelance work, full-time roles and collaboration.
 
 ### Now
 
-- **Jawwy DT** (Qeema, for Jawwy by STC, since 2023): EOC/ECM development and L3 support for a production order stack, covering catalog management in ECM, root-cause fixes for escalated incidents, and EOC integrations with external systems
-- **Varden**: HR and resource platform with timesheets, PTO, leave and HR requests, and a versioned API (Laravel, Blade, Alpine.js, Tailwind)
+- **Creatio BPM/CRM at Qeema** (Senior Software Engineer since June 2026): leading Creatio solutions from requirements to delivery, covering workflow automation, integrations with each client's systems, and the internal tooling and monitoring the team relies on
+  - **Lead-to-Cash**: the lead-to-invoice journey across Sales, Product Catalogue, Contracts, Projects and Billing, connected over REST (OData) and shipped with the clio CLI
+  - **Contract Lifecycle Management**: MSA, SOW and change-order lifecycle with staged approvals, locked signed contracts, renewals and automated billing plans
+- **Jawwy DT** (for Jawwy by STC, since 2023): EOC/ECM development and L3 support for a production order stack, covering catalog management in ECM, root-cause fixes for escalated incidents, and EOC integrations with external systems
+- **Varden**: HR and resource platform with timesheets, PTO, leave and HR requests, and a versioned API (Laravel, Blade, Alpine.js, Tailwind), now being rebuilt as **Varden Node** on Next.js, PostgreSQL and Drizzle
 - **[UniOne](https://github.com/ahmedmalmoselhy/UniOne)**: a university management system I'm building more than once, in different stacks
 
 ### Shipped
 
 - **EOC/ECM upgrade, v20 → v22**: led the upgrade of Jawwy by STC's live order stack, resolving version conflicts without breaking integrations
-- **Customer 360**: designed and led a Creatio customer data platform that brings every channel's interactions into one view, with analytics and reporting
+- **Customer 360**: project lead and solution designer for a Creatio CRM that replaced legacy systems and brought every channel's customer interactions into one view, with analytics and reporting
 - **Delta Pharma CRM**: Creatio CRM for a pharmaceutical business, with automated workflows and third-party API integrations
+- **Workload Management**: team capacity and assignments in Creatio, with custom logic in C# and JavaScript
 - **Kiro Pet Supplies** (2026): bulk ordering for a pet-supply wholesaler that replaced paper notes and chat threads, with an audit trail and PDF invoices over WhatsApp (Laravel, Filament)
 
 ### Open source & side projects
@@ -27,13 +31,14 @@ Open to consulting, freelance work, full-time roles and collaboration.
 
 ### Stack
 
-- **Platforms:** Ericsson Order Care (EOC), Ericsson Catalog Manager (ECM), Creatio
-- **Build:** PHP, Laravel, Filament, JavaScript, Node, Express, Vue, React, C#, Python
-- **Data and ops:** Oracle, PostgreSQL, MySQL, MariaDB, SQL Server, Docker, Git, Jira
+- **Creatio:** Freedom UI, Studio Creatio, BPMN business processes, data modeling, business rules, dashboards, low-code/no-code, clio
+- **Order management:** Ericsson Order Care (EOC), Ericsson Catalog Manager (ECM)
+- **Build:** C#, JavaScript, TypeScript, PHP, Laravel, Filament, Node, Express, Next.js, Vue, React, Python
+- **Data and ops:** Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, REST APIs (OData), Docker, Git, Jira
 
 ### Certifications
 
-Creatio.AI · Creatio Solution Consultant · Creatio Software Developer (Advanced) · Creatio No-Code Creator (Basic) · Python for Everybody series (Coursera)
+Creatio Solution Consultant · Creatio.AI · Creatio Software Developer (Advanced) · Creatio No-Code Creator (Basic) · C# .NET with MS SQL (Udemy) · Python for Everybody series (Coursera)
 
 B.Sc. Computers & Systems Engineering, Mansoura University
 
@@ -44,4 +49,4 @@ Email is the fastest.
 - 📧 [ahmedmalmoselhy@gmail.com](mailto:ahmedmalmoselhy@gmail.com)
 - 💬 [WhatsApp](https://wa.me/201117001262) · 📞 [+20 111 700 1262](tel:+201117001262)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmedmalmoselhy/)
-- 🌐 [Portfolio](https://ahmedmalmoselhy.github.io) · 📄 [CV (PDF)](https://ahmedmalmoselhy.github.io/AhmedAlMoselhy.pdf)
+- 🌐 [Portfolio](https://portfolio.ahmed-malmoselhy.workers.dev) · 📄 [CV (PDF)](https://portfolio.ahmed-malmoselhy.workers.dev/AhmedAlMoselhy.pdf)
